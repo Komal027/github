@@ -26,6 +26,6 @@ urlpatterns = [
     url(r'^/upload/', include('personal.urls')),
     url(r'^/cancel/', include('personal.urls')),
     url(r'^/login/upload/', include('personal.urls')),
-]fff
+]fffgfhgf
 
 ]
